@@ -1,8 +1,8 @@
-<h1 align="center">sh's Hub</h1>
-
-<img src="https://github.com/user-attachments/assets/86dfcd15-764c-44da-8f51-56d78223f0c1">
-
-<h3 align="center">백엔드를 공부중인 주니어 개발자입니다.</h3>
+<div align="center">
+  <h1>sh's Hub</h1>
+  <img src="https://github.com/user-attachments/assets/86dfcd15-764c-44da-8f51-56d78223f0c1">  
+  <h3>백엔드를 공부중인 주니어 개발자입니다.</h3>
+</div>
 
 ---
 

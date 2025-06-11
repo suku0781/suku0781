@@ -7,7 +7,7 @@
 
 📫 Email: suku0781@gmail.com  
 📓 Portfolio: [Notion Link](https://bald-pail-0af.notion.site/Kim-SuHyeok-ea13bd7f630d4cb5b99b709ec3d51e5f?pvs=4)  
-✍️ Blog: [velog](https://velog.io/@yukina1418)
+✍️ Blog: [morethanlog](https://shk-study-log.vercel.app/)
 
 ---
 
